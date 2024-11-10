@@ -66,4 +66,4 @@ In conclusion, this technical proposal outlines the customization requirements, 
 
 This template can be customized based on the specific requirements of your Odoo customization project.
 ---
-## See [Sample 1](./sample-1)
+## See [Sample 1](./sample-1.md)
